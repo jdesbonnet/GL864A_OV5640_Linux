@@ -1,0 +1,47 @@
+
+### v4l2 device info [/dev/video0] ###
+general info
+    VIDIOC_QUERYCAP
+	driver                  : "uvcvideo"
+	card                    : "USB2.0 UVC PC Camera"
+	bus_info                : "usb-20980000.usb-1.1.1"
+	version                 : 4.4.50
+	capabilities            : 0x84200001 [VIDEO_CAPTURE,?,STREAMING,(null)]
+
+standards
+
+inputs
+    VIDIOC_ENUMINPUT(0)
+	index                   : 0
+	name                    : "Camera 1"
+	type                    : CAMERA
+	audioset                : 0
+	tuner                   : 0
+	std                     : 0x0 []
+	status                  : 0x0 []
+
+video capture
+    VIDIOC_ENUM_FMT(0,VIDEO_CAPTURE)
+	index                   : 0
+	type                    : VIDEO_CAPTURE
+	flags                   : 0
+	description             : "YUYV 4:2:2"
+	pixelformat             : 0x56595559 [YUYV]
+    VIDIOC_ENUM_FMT(1,VIDEO_CAPTURE)
+	index                   : 1
+	type                    : VIDEO_CAPTURE
+	flags                   : 1
+	description             : "Motion-JPEG"
+	pixelformat             : 0x47504a4d [MJPG]
+    VIDIOC_G_FMT(VIDEO_CAPTURE)
+	type                    : VIDEO_CAPTURE
+	fmt.pix.width           : 1280
+	fmt.pix.height          : 720
+	fmt.pix.pixelformat     : 0x47504a4d [MJPG]
+	fmt.pix.field           : NONE
+	fmt.pix.bytesperline    : 0
+	fmt.pix.sizeimage       : 1843200
+	fmt.pix.colorspace      : SRGB
+	fmt.pix.priv            : 4276996862
+
+controls
