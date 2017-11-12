@@ -30,8 +30,8 @@ Researching problems with Linux + UVC cameras a common cause of problems is miss
 
 These are the rest reports:
 
- * [UVC test GL864A PID 0x0510](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-37-33.html)
- * [UVC test GL864A PID 0x0515](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-41-57.html)
+ * [UVC Functionlity Test FW_20171030 GL864A PID 0x0510](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-37-33.html)
+ * [UVC Functionlity Test FW 20171030 GL864A PID 0x0515](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-41-57.html)
  * [UVC Functionlity Test Eval Board](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Passed%20-%202017-11-12%2012-44-43.html)
 
 The errors seem to indicate that some mandatory services are missing. These are:
