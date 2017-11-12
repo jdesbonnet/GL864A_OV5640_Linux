@@ -25,9 +25,9 @@ we really must resolve before we can signoff.
 
 ### Connection to camera sometimes fails
 
- * [UVC test GL864A PID 0x0510](./FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-37-33.html)
- * [UVC test GL864A PID 0x0515](./FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-41-57.html)
- * [UVC Functionlity Test Eval Board ](./FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Passed%20-%202017-11-12%2012-44-43.html)
+ * [UVC test GL864A PID 0x0510](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-37-33.html)
+ * [UVC test GL864A PID 0x0515](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Failed%20-%202017-11-12%2012-41-57.html)
+ * [UVC Functionlity Test Eval Board](https://jdesbonnet.github.io/projects/GL864/FW_OV5640_B03_ISO_20151030/UVC%20Functionality%20Tests%20-%20Passed%20-%202017-11-12%2012-44-43.html)
 
 
 ### Frame rate issue
