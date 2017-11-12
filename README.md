@@ -48,9 +48,14 @@ The firmware on the GL864 eval board does pass all the tests (report also linked
 
 ### Frame rate issue
 
-We are seeing something in the order of 3 frames per second. This has been
-observed on Windows 10. The following is a few successive frames recorded
-with the video record feature of Zoom Meeting.
+We are seeing something in the order of 3 to 4 frames per second. This has been
+observed on Windows 10. 
+
+The following is not a very scientific test, but it does show we are seeing
+a rather slow frame rate. The following are 4 frames in sequence
+(omitting duplicated frames, because Zoom Meeting recorded from screen at
+a sometime like 30 frames per second). As can be seen there is a substantial
+gap in time between differing frames.
 
 ![](./FW_OV5640_B03_ISO_20151030/f010.jpg)
 ![](./FW_OV5640_B03_ISO_20151030/f011.jpg)
@@ -59,7 +64,7 @@ with the video record feature of Zoom Meeting.
 
 ## Links of interest
 
-* [USB2 tests](http://www.usb.org/developers/tools/usb20_tools/#usb20cv)
+* [USB2 test suite](http://www.usb.org/developers/tools/usb20_tools/#usb20cv)
 * http://www.genesyslogic.com/en/product_view.php?show=44
 * http://www.usb.org/developers/tools/usb20_tools/#usb20cv
 
