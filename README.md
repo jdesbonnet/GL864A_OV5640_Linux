@@ -35,11 +35,15 @@ observed on Windows 10. The following is a few successive frames recorded
 with the video record feature of Zoom Meeting.
 
 ![](./FW_OV5640_B03_ISO_20151030/f010.jpg)
+
 ![](./FW_OV5640_B03_ISO_20151030/f011.jpg)
 ![](./FW_OV5640_B03_ISO_20151030/f012.jpg)
 ![](./FW_OV5640_B03_ISO_20151030/f013.jpg)
 
 
+![](./FW_OV5640_B03_ISO_20151030/f012.jpg)
+
+![](./FW_OV5640_B03_ISO_20151030/f013.jpg)
 
 
 ## Links of interest
