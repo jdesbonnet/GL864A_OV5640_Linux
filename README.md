@@ -25,6 +25,7 @@ we really must resolve before we can signoff.
 
 ### Connection to camera sometimes fails
 
+[UVC test ](./FW_OV5640_B03_ISO_20151030/UVC Functionality Tests - Failed - 2017-11-12 12-37-33.html)
 
 
 ### Frame rate issue
@@ -33,10 +34,11 @@ We are seeing something in the order of 3 frames per second. This has been
 observed on Windows 10. The following is a few successive frames recorded
 with the video record feature of Zoom Meeting.
 
-![](./FW_OV5640_B03_ISO_20151030/f008.jpg)
-![](./FW_OV5640_B03_ISO_20151030/f009.jpg)
 ![](./FW_OV5640_B03_ISO_20151030/f010.jpg)
 ![](./FW_OV5640_B03_ISO_20151030/f011.jpg)
+![](./FW_OV5640_B03_ISO_20151030/f012.jpg)
+![](./FW_OV5640_B03_ISO_20151030/f013.jpg)
+
 
 
 
