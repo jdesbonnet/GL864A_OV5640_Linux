@@ -10,17 +10,26 @@ Description:	Raspbian GNU/Linux 8.0 (jessie)
 Release:	8.0
 Codename:	jessie
 
-## Firmware 20171014
+## Firmware 20171119
 
-Found that this worked with Windows 10, but could only be made to work
-very infrequently with Linux. Some sort of timeout error happening during
-the initial setup of the video connection.
+This does seem to fix the low frame rate bug. I have been able to record at 30fps. 
+However the difficulty of connecting to the video device continues. Even Windows 10
+does not pick up on the camera now.
+
 
 ## Firmware 20171030
 
 This version has has moved us forward from generally unusable with Linux
 to being usable under certain conditions. However some issues remain that
 we really must resolve before we can signoff.
+
+## Firmware 20171014
+
+Found that this worked with Windows 10, but could only be made to work
+very infrequently with Linux. Some sort of timeout error happening during
+the initial setup of the video connection.
+
+
 
 ### Connection to camera sometimes fails
 
